@@ -13,7 +13,7 @@ To address this problem, in this work, we first construct M3, an MMEA benchmark 
 
 | Benchmarks                        | KGs         |  #Ent. |  #Rel. | #EA pairs | Coverage | Similarity |  SSIM  |
 | --------------------------------- | ----------- | -------| ------ | --------- | -------- |  --------  | -----  | 
-| MMKG                              | FB15K       | 14951  |  1345  |    --     |   89.9%  |            |        |
+| MMKG                              | FB15K       | 14951  |  1345  |           |   89.9%  |            |        |
 |                                   | DB15K       | 14777  |  279   |   12846   |   86.9%  |            |        |
 |                                   | YAGO15K     | 15283  |  32    |   11199   |   73.2%  |            |        |
 | EVA-Dataset                       |   ZH        | 19388  |  1701  |   15000   |   82.1%  |   83.0%    | 0.5721 |
