@@ -1,5 +1,5 @@
 # M3: A Multi-Image Multi-Modal Entity Alignment Dataset
-![](https://img.shields.io/badge/version-1.0.1-blue)
+![](https://img.shields.io/badge/version-1.0.0-blue)
 
 >Multi-modal Entity Alignment (MMEA) aims to identify the equivalent entities in different multi-modal knowledge graphs (MMKGs), thereby facilitating the integration of multiple MMKGs and enhancing the coverage of MMKGs. However, a prominent issue is the lack of publicly available datasets and evaluation benchmarks. Existing MMEA datasets have low entity coverage, single image, high inter-image correlation, and the images are derived from a single knowledge base, which cannot mirror the real-life challenges. This limitation hinders the validation of MMEA methods in real-world settings.
 To address this problem, in this work, we first construct M3, an MMEA benchmark equipped with multiple images in real-world scenarios. Additionally, we design a universal multi-image processing module (AMIA) that assigns different levels of attention weights to images associated with entities, thus effectively modeling the visual information. The experimental results validate the difficulty and effectiveness of M3, as well as the effectiveness of AMIA. Our work will be publicly available on the GitHub data repository upon acceptance.
